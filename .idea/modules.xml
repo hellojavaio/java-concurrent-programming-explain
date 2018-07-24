@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-concurrent-programming-explain.iml" filepath="$PROJECT_DIR$/java-concurrent-programming-explain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module1/module1.iml" filepath="$PROJECT_DIR$/module1/module1.iml" />
     </modules>
   </component>
 </project>
