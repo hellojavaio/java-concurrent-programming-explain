@@ -29,6 +29,10 @@
 - `Semaphore` 其实和锁有点类似，它一般用于控制对某组资源的访问权限。
 - 初始化时设置大小, 线程每次获取和存放回去都有数量可选。
 
+## ForkJoin
+
+- 讲任务分割最后汇集结果,类似排序中的归并
+
 ## 資料
 
 - [The j.u.c Synchronizer Framework中文翻译版](http://ifeve.com/aqs/)
@@ -40,6 +44,8 @@
 - [AQS解析(2)](https://ryan-hou.github.io/2018/06/13/AQS%E8%A7%A3%E6%9E%90-2/)
 
 - [CountDownLatch、CyclicBarrier和 Semaphore](http://www.importnew.com/21889.html)
+
+- [Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
 
 ## LICENSE
 
